@@ -9,7 +9,7 @@ Repo sobre una de las tareas orientadas en la carrera de Ingeniería Informátic
 # Tecnologías empleadas
 
 - JavaScript
-- HTMl
+- HTML
 - CSS
 
 # Instalación
@@ -18,7 +18,7 @@ Repo sobre una de las tareas orientadas en la carrera de Ingeniería Informátic
 
 1- Clonar el proyecto en local haciendo uso de 'git clone' y ejecutando el archivo index.html 
 
-2- Acceder a la githubpages del proyecto: 
+2- Acceder a la githubpages del proyecto.
 
 # Contacto 
 
