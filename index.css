@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+
+}
+
+body{
+    background-color: #5a5a55;
+}
+
+header{
+    background-color: #dfe216;
+    text-align: center;
+}
+
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#formulario{
+    padding: 25px;
+    display: inline;
+}
+
+#registro-libros{
+    margin-left: 80px;
+}
+
+#filtro-genero{
+    margin-top: 150px;
+    margin-right: 250px;
+}
+
+#mostrar{
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    margin-left: 12px;
+    border: none;
+}
+
+#t{
+    text-align: left;
+    font-size: large;
+}
+
+#dato{
+    width: 250px;
+}
+
+#filtrar{
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+    margin-left: 85px;
+    border: none;
+}
+
+#filtrar:hover{
+    background-color: #e9b572;
+    cursor: pointer;
+}
+
+#mostrar:hover{
+    background-color: #e9b572;
+    cursor: pointer;
+}
+
+input:hover{
+    background-color: #e9b572;
+}
+
+#container2{
+    display: flex;
+    justify-content: space-between;
+}
+
+#libros-genero{
+    margin-right: 500px;
+}

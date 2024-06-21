@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Js-Project</title>
+    <link rel="stylesheet" href="index.css">
+    <script src = "index.js"></script>
+</head>
+<header>
+    <h1 id="presentation">Tarea Proyecto de js y GitHub </h1>
+</header>
+<body>
+    <div id="container">
+        <div id="formulario">
+            <form id="registro-libros">
+                <label id="t">Título del Libro: </label>
+                <br>
+                <input type="text" id="titulo" required>
+                <br>
+                <br>
+                <label id="t">Año de Publicación: </label>
+                <br>
+                <input type="number" id="anyo" required>
+                <br>
+                <br>
+                <label id="t">Nombre del Esritor: </label>
+                <br>
+                <input type="text" id="escritor" required>
+                <br>
+                <br>
+                <label id="t">Género: </label>
+                <br>
+                <input type="text" id="genero" required>
+                <br>
+            </form>
+            <br>
+            <button type="button" onclick="aggLibro()" id="mostrar">Añadir a la Biblioteca</button>
+            <button type="button" onclick="mostrarLibros()" id="mostrar">Mostrar Libros</button>
+        </div>
+        <br>
+        <div id="filtro">
+            <form id="filtro-genero">
+                <label id="t">Buscar por Género: </label>
+                <br>
+                <input type="text" id="dato" required>
+                <br>
+                <button type="button" onclick="filtrarGenero()" id="filtrar">Buscar</button>
+            </form>
+        </div>
+    </div>
+    <div id="container2">
+        <div id="libros-todos">
+            <ul>
+    
+            </ul>
+        </div>
+        <div id="libros-genero">
+            <ul>
+    
+            </ul>
+        </div>
+    </div>
+    </body>
+</html>
