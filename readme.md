@@ -16,10 +16,12 @@ Repo sobre una de las tareas orientadas en la carrera de Ingeniería Informátic
 
 - Tenemos dos opciones:
 
-1- Clonar el proyecto en local haciendo uso de 'git clone' y ejecutando el archivo index.html\n
+1- Clonar el proyecto en local haciendo uso de 'git clone' y ejecutando el archivo index.html 
+
 2- Acceder a la githubpages del proyecto: 
 
 # Contacto 
 
-Manuel David Montero Crespo: manuel.montero0405@gmail.com\n
+Manuel David Montero Crespo: manuel.montero0405@gmail.com
+
 Estudiante de Ingeniería Informática en la CUJAE
